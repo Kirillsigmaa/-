@@ -1,0 +1,50 @@
+.blockSText-V h1{
+    text-align: center;
+}
+
+.input-V{
+    padding-left: 27%;
+}
+
+
+
+
+
+
+.input-element input{
+    height: 57px;
+    width: 59%;
+    border-radius: 1px;
+    border-color: #3b3d3c1a;
+    margin: 0px 0px 20px 0px;
+    padding-left: 1%;
+}
+
+.input-spisok input{
+    height: 57px;
+    width: 59%;
+    border-radius: 1px;
+    border-color: #3b3d3c1a;
+    margin: 0px 0px 20px 0px;
+    padding-left: 1%;
+}
+
+.input-element-BIG textarea{
+    height: 200px;
+    width: 59%;
+    border-radius: 1px;
+    border-color: #3b3d3c1a;
+    margin: 0px 0px 20px 0px;
+    padding-left: 1%;
+    padding-top: 20px;
+    resize: none;
+}
+
+.input-element-button button{
+    height: 57px;
+    width: 60.5%;
+    border: none;
+    background-color: #585858;
+    color: white;
+    border-radius: 50px;
+}

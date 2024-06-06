@@ -1,0 +1,168 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.classniy-velik{
+    height: 1000px;
+    background-image: url("../pikchi/velik-black.png");
+}
+
+.TEXT{
+    padding-top: 480px;
+    text-align: left;
+    color: white;
+    padding-left: 40px;
+}
+
+.TEXT h5{
+   font-size: 14px;
+   margin: 0;
+   padding: 0; 
+}
+
+.TEXT h1{
+    font-size: 70px;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+.classniy-indus{
+    height: 850px;
+    padding-left: 100px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    grid-gap: 300px;
+}
+
+/* .ind{
+    margin: 125px 0px 150px 50px;
+} */
+
+.kusok-TEXTA{
+    width: 465.83px;
+}
+
+.kusok-TEXTA h1{
+    font-size: 50px;
+}
+
+.kusok-TEXTA p{
+    font-size: 14px;
+}
+
+.kusok-TEXTA h6{
+    font-size: 15px;
+}
+
+
+
+
+
+.velik-snezhok{
+    height: 1000px;
+    background-image: url("../pikchi/velik-white.png");
+    color: white;
+}
+
+.velik-snezhok-text{
+    width: 465.88px;
+    padding-top: 300px;
+    padding-left: 150px;
+}
+
+.velik-snezhok-text h1{
+    font-size: 50px;
+}
+
+.velik-snezhok-text p{
+    font-size: 14px;
+    line-height: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.prosto-velik{
+    height: 850px;
+    padding-left: 100px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    grid-gap: 300px;
+}
+
+.kusok-TEXTA-and-velik{
+    width: 465.83px;
+}
+
+.kusok-TEXTA-and-velik h1{
+    font-size: 50px;
+}
+
+.kusok-TEXTA-and-velik p{
+    font-size: 14px;
+}
+
+.kusok-TEXTA-and-velik h6{
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+.opat-velik-skolko-mozhno{
+    display: flex;
+    align-items: center;
+}
+
+.Spisok-zagalovok h1{
+    font-size: 50px;
+    line-height: 50px;
+}
+
+.Spisok{
+    width: 465.88px;
+    padding-left: 15%;
+}
+
+
+.element-spiska-zagalovok{
+    display: flex;
+    align-items: center;
+}
+
+.element-spiska-zagalovok h2{
+    padding-left: 15px;
+    font-size: 20px;
+}
+
+.element-spiska p{
+    margin: 0px 0px 0px 0px;
+    font-size: 14px;
+    line-height: 17px;
+    padding-left: 41px;
+    color: #14161566;
+}
+
+.zhooop{
+    padding-left: 15%;
+}

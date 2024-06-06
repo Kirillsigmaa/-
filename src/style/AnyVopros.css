@@ -1,0 +1,48 @@
+.AnyVopros-V{
+    padding-top: 130px;
+}
+
+.AnyVopros-V hr{
+    color: #e5e5e5;
+    margin: 0px;
+}
+
+.questions{
+    padding-left: 27%;
+}
+
+
+.button-questions{
+    width: 59%;
+    border-top: 1px;
+    border-bottom: 1px;
+    border-right: none;
+    border-left: none;
+    background-color: white;
+    
+}
+
+.button-questions-nachinka{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+}
+
+.button-questions-nachinka h2{
+    font-size: 25px;
+    line-height: 31.75px;
+    margin: 30px 0px 30px 0px;
+}
+
+.button-questions button{
+    background-color: white;
+    border: none;
+    display: flex;
+}
+
+.zagalovok h1{
+    padding-top: 130px;
+    padding-left: 29%;
+    font-size: 100px;
+    line-height: 100px;
+}

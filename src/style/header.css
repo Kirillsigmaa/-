@@ -1,0 +1,66 @@
+.head{
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+*{
+    font-family: Arial;
+}
+
+.vse{
+    display: flex;
+}
+
+.head-logo{
+    width: 194.71px;
+    display: flex;
+    align-items: center;
+    height: 50px;
+}
+
+.head-logo img{
+    align-items: center;
+    padding-left: 48.5px;
+}
+
+.head-List button{
+    height: 20px;
+    width: auto;
+
+    background-color: white;
+    border: none;
+    font-size: 12px;
+    font-weight: 15px;
+}
+
+.head-List{
+    display: flex;
+    grid-gap: 20px;
+    width: 530px;
+}
+
+.ListP1{
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.head-List img{
+    padding-left: 5px;
+}
+
+.ListP2{
+    height: 50px;
+    width: 101.11px;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.znachki{
+    display: flex;
+    padding-top: 15px;
+    padding-right: 50px;
+    grid-gap: 20px;
+}

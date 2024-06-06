@@ -1,0 +1,108 @@
+.dva-velika{
+    height: 855px;
+    display: flex;
+    justify-content: center;
+    grid-gap: 4%;
+}
+
+
+.velik1{
+    height: 695px;
+    width: 636.98px;
+    background-color: #EBEDEE;
+}
+
+.velik2{
+    height: 695px;
+    width: 636.98px;
+    background-color: #EBEDEE;
+}
+
+.nachinka{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    grid-gap: 20px;
+    padding-left: 20px;
+}
+
+/* .nachinka img{
+    top: 50%;
+} */
+
+.panel-top{
+    width: 576.98px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+
+/* .vpravo{
+    width: 16px;
+}
+
+.vlevo{
+    width: 16px;
+} */
+
+.panel-top img{
+    height: 30px;
+    
+}
+
+.panel-top h2{
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.cveta{
+    display: flex;
+    justify-content: center;
+    background-color: #EBEDEE;
+}
+
+.cvet1 button{
+    background-image: url(../pikchi/Black-ball.png);
+    width: 45px;
+    height: 45px;
+    border: none;
+}
+
+.cvet2 button{
+    background-image: url(../pikchi/Gray-ball.png);
+    width: 45px;
+    height: 45px;
+    border: none;
+}
+
+.cvet3 button{
+    background-image: url(../pikchi/White-ball.png);
+    width: 45px;
+    height: 45px;
+    border: none;
+}
+
+.cvet4 button{
+    background-image: url(../pikchi/Pol-Black-ball.png);
+    width: 45px;
+    height: 45px;
+    border: none;
+}
+
+.cvet5 button{
+    background-image: url(../pikchi/Pol-White-ball.png);
+    width: 45px;
+    height: 45px;
+    border: none;
+}
+
+.block-s-cvetami{
+    width: 576.98px;
+    padding-left: 25px;
+}
+
+.dva-velika{
+    padding-top: 180px;
+}
