@@ -4,18 +4,32 @@ import FeaturedBike from "./components/FeaturedBike";
 import BlockSText from "./components/blockSText";
 import AnyVopros from "./components/AnyVopros";
 import Podval from "./components/Podval";
+
+import HeroSectionTwo from "./components/HeroSectionTwo";
+import FeaturedBikeTwoV from "./components/FeaturedBikeTwoV";
+import Kataloge from "./components/Kataloge";
+import ChistoText from "./components/ChistoText";
+
 import './style/App.css';
 import './fonts/style.css'
 
 function App() {
   return (
     <>
-      <Header/>
+      {/* <Header/>
       <HeroSection/>
       <FeaturedBike/>
       <BlockSText/>
       <AnyVopros/>
-      <Podval/>
+      <Podval/> */}
+
+
+
+      <Header/>
+      <HeroSectionTwo/>
+      <FeaturedBikeTwoV/>
+      <Kataloge/>
+      <ChistoText/>
     </>
   );
 }

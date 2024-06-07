@@ -1,0 +1,23 @@
+.classnie-dva-velika{
+    height: 1000px;
+    background-image: url("../pikchi/veliki.png");
+}
+
+.TEXTs{
+    padding-top: 480px;
+    text-align: left;
+    color: white;
+    padding-left: 40px;
+}
+
+.TEXTs h5{
+   font-size: 14px;
+   margin: 0;
+   padding: 0; 
+}
+
+.TEXTs h1{
+    font-size: 70px;
+    margin: 0;
+    padding: 0;
+}
