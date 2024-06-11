@@ -1,11 +1,15 @@
+*{
+    font-family: 'Plus Jakarta Sans';
+    margin: 0;
+}
+
 .head{
     height: 50px;
     display: flex;
     justify-content: space-between;
 }
-*{
-    font-family: Arial;
-}
+
+
 
 .vse{
     display: flex;

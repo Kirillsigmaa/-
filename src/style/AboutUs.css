@@ -1,0 +1,215 @@
+.AboutUs{
+    height: 1000px;
+    background-image: url(../pikchi//fonchikSital.png);
+    background-repeat: no-repeat;
+    background-size: auto 1000px;
+}
+
+.AboutUs-Text{
+    color: white;
+    padding-left: 60px;
+    padding-top: 450px;
+}
+
+.AboutUs-Text h1{
+    font-size: 70px;
+    line-height: 70px;
+    margin: 15px 0px 15px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.PartBike{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding-left: 15%;
+    padding-right: 3%;
+}
+
+.PartBike-Text{
+    width: 470px;
+    padding-top: 170px;
+}
+
+.PartBike-Text a{
+    color: black;
+    text-decoration: none;
+    font-size: 50px;
+    line-height: 50px;
+}
+
+.PartBike-Text p{
+    color: black;
+    font-size: 20px;
+    line-height: 21px;
+}
+
+
+
+
+
+
+.Tolko-Text{
+    width: 735px;
+    display: flex;
+    padding-left: 30%;
+    padding-top: 200px;
+}
+
+.Tolko-Text-Text h1{
+    color: black;
+    font-size: 120px;
+    line-height: 120px;
+    text-align: center;
+}
+
+
+
+.vrachiNafone{
+    height: 1050px;
+    background-image: url(../pikchi/vrachiAndVeliki.png);
+    color: white;
+    margin: 100px 0px 200px 0px;
+}
+
+.vrachiNafone-Text{
+    
+    padding-top: 300px;
+    padding-left: 70%;
+}
+
+.vrachiNafone-Text h1{
+    font-size: 70px;
+    line-height: 50px;
+}
+
+.vrachiNafone-Text p{
+    font-size: 20px;
+    line-height: 21px;
+    width: 340px;
+}
+
+
+
+
+
+
+
+
+
+.block1{
+    background-color: #EBEDEE;
+    width: 535px;
+    border-radius: 10px;
+    height: 510px;
+}
+
+
+.zagalovovok-and-evro{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 10px;
+}
+
+.zagalovovok-and-evro a{
+    padding-top: 30px;
+    color: black;
+    text-decoration: none;
+}
+
+.Women{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    width: 18%;
+}
+
+.Electric{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    width: 50%;
+}
+
+.ElectricIvy a{
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    width: 100%;
+}
+
+.woman-A a{
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    width: 18%;
+}
+.man-A a{
+    color: darkgray;
+    text-decoration: none;
+}
+
+.age a{
+    color: black;
+    text-decoration: none;
+}
+
+.buttonsin {
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 40px;
+    display: flex;
+}
+
+.buttonsin button{
+    width: 45%;
+    height: 40px;
+    background-color: white;
+    border-radius: 30px;
+    border: none;
+}
+
+.buttonsin-A{
+    width: 100px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.buttonsin-A a{
+    color: black;
+}
+
+.bloks{
+    padding-left: 3%;
+    display: flex;
+    grid-gap: 5%;
+    margin: 0px 0px 100px 0px;
+}
+
+
+.AAAWoman{
+    padding-top: 10px;
+    padding-left: 5%;
+}
+
+.KID{
+    padding-top: 10px;
+    padding-left: 5%;
+    width: 481px;
+    height: 271px;
+}
